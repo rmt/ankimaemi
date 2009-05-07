@@ -354,9 +354,9 @@ class AnkiMiniApp(hildon.Program):
     maximum-scale=0.6667" />
 <style>
 .q
-{ font-size: 30px; color:#0000ff;}
+{ font-family: "Deja-Vu Sans", sans-serif; font-size: 30px; color:#0000ff;}
 .a
-{ font-size: 30px; }
+{ font-family: "Deja-Vu Sans", sans-serif; font-size: 30px; }
 body { margin-top: 0px; padding: 0px; }
 </style>
 </head><body>
